@@ -1,0 +1,18 @@
+
+h1 {
+    
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+#textBox {
+    display: none;
+}
+
+
+
+.active {
+    background-color: #8099B2;
+}
